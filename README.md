@@ -1,3 +1,8 @@
+## OwO??
+[이것](https://github.com/SerenityS/memo_live2d)에 누락된 모델을 채워넣으려고 만든 포크인데요, 모션은 어떻게 추출하는지, 추출 안 되는 캐릭터는 또 왜 안 되는 건지 모르겠네요. 지식이 늘 때마다 뭔가 꼼지락거려봐야겠어요.
+
+This is a fork I made to fill in the missing models in [this](https://github.com/SerenityS/memo_live2d), but I don't know how to extract motion, or why some characters don't extract and others don't. I'll have to tinker with it as my knowledge grows.
+
 ## MementoMori Live2D
 
 |Folder|Character|
@@ -53,8 +58,10 @@
 |CHR_000049|Ophelia|
 |**X**|Armstrong|
 |CHR_000051|Sophia|
+|CHR_000069|Kaguya|
 ---
 ## Credit
-**Perfare** - [AssetStudio](https://github.com/Perfare/AssetStudio)
+**gartia** - [AssetStudio](https://github.com/gartia/AssetStudio-splitbundle)
 
+**Perfare** - [AssetStudio](https://github.com/Perfare/AssetStudio)
 **Perfare** - [UnityLive2DExtractor](https://github.com/Perfare/UnityLive2DExtractor)
