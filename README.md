@@ -80,5 +80,8 @@ The folders in **bold** were added after fork.
 ## Credit
 **gartia** - [AssetStudio](https://github.com/gartia/AssetStudio-splitbundle)
 
+---
+
 **Perfare** - [AssetStudio](https://github.com/Perfare/AssetStudio)
+
 **Perfare** - [UnityLive2DExtractor](https://github.com/Perfare/UnityLive2DExtractor)
