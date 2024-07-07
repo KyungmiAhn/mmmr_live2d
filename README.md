@@ -4,6 +4,9 @@
 This is a fork I made to fill in the missing models in [this](https://github.com/SerenityS/memo_live2d), but I don't know how to extract motion, or why some characters don't extract and others don't. I'll have to tinker with it as my knowledge grows.
 
 ## MementoMori Live2D
+**볼드체**가 포크하며 추가한 파일입니다.
+
+The folders in **bold** were added after fork.
 
 |Folder|Character|한글|
 |:---:|---|---|
@@ -65,6 +68,8 @@ This is a fork I made to fill in the missing models in [this](https://github.com
 |**CHR_000068**|Fenny|페넥|
 |**CHR_000069**|Kaguya|카구야|
 |**CHR_000070**|Sabrina (Swimsuit)|사브리나 (수영복)|
+|**CHR_000071**|Moddey (Swimsuit)|모디 (수영복)|
+|**CHR_000072**|Cordie (Yukata)|콜디 (유카타)|
 |**CHR_000073**|Amour (Holy Night)|아모르 (성야)|
 |**CHR-000074**|Tropon (Holy Night)|트로폰 (성야)
 |**CHR_000077**|Minasumari|미나슈마리|
@@ -72,7 +77,6 @@ This is a fork I made to fill in the missing models in [this](https://github.com
 |**CHR_000082**|Alexandra|알렉산드라|
 |**CHR_000088**|Rosalie (Apostle)|로잘리|
 
----
 ## Credit
 **gartia** - [AssetStudio](https://github.com/gartia/AssetStudio-splitbundle)
 
