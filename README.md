@@ -56,9 +56,12 @@ This is a fork I made to fill in the missing models in [this](https://github.com
 |CHR_000047|Valeriede|
 |CHR_000048|A.A.|
 |CHR_000049|Ophelia|
-|**X**|Armstrong|
+|CHR_000050|Armstrong|
 |CHR_000051|Sophia|
+|CHR_000053|Vella|
+|CHR_000061|Illya (God's Curse)|
 |CHR_000069|Kaguya|
+|CHR-000074|Tropon (Holy Night)|
 |CHR_000077|Minasumari|
 |CHR_000078|Asahi|
 |CHR_000082|Alexandra|
