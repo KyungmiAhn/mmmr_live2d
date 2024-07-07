@@ -51,7 +51,7 @@ This is a fork I made to fill in the missing models in [this](https://github.com
 |CHR_000042|Fortina|
 |CHR_000043|Cerberus|
 |CHR_000044|Rusalka|
-|**X**|Elfriede|
+|CHR_000045|Elfriede|
 |CHR_000046|Lunalynn|
 |CHR_000047|Valeriede|
 |CHR_000048|A.A.|
@@ -59,6 +59,11 @@ This is a fork I made to fill in the missing models in [this](https://github.com
 |**X**|Armstrong|
 |CHR_000051|Sophia|
 |CHR_000069|Kaguya|
+|CHR_000077|Minasumari|
+|CHR_000078|Asahi|
+|CHR_000082|Alexandra|
+|CHR_000088|Rosalie (Apostle)|
+
 ---
 ## Credit
 **gartia** - [AssetStudio](https://github.com/gartia/AssetStudio-splitbundle)
