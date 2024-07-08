@@ -63,9 +63,9 @@ The folders in **bold** were added after fork.
 |CHR_000051|Sophia|소피아|
 |**CHR_000052**|Sivi|시뷔|
 |**CHR_000053**|Vella|윌라|
+|**CHR_000054**|Chiffon|쉬폰|
 |**CHR_000055**|Lea|레아|
 |**CHR_000056**|Claudia|클라우디아|
-|**CHR_000058**|Chiffon|쉬폰|
 |**CHR_000057**|Stellar|스텔라|
 |**CHR_000058**|Artie|아티|
 |**CHR_000059**|Eir|에이르|
