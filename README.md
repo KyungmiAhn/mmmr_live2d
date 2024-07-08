@@ -61,20 +61,35 @@ The folders in **bold** were added after fork.
 |CHR_000049|Ophelia|오필리아|
 |**CHR_000050**|Armstrong|암스트롱|
 |CHR_000051|Sophia|소피아|
+|**CHR_000052**|Sivi|시뷔|
 |**CHR_000053**|Vella|윌라|
+|**CHR_000055**|Lea|레아|
+|**CHR_000056**|Claudia|클라우디아|
+|**CHR_000058**|Chiffon|쉬폰|
 |**CHR_000057**|Stellar|스텔라|
+|**CHR_000058**|Artie|아티|
+|**CHR_000059**|Eir|에이르|
+|**CHR_000060**|Fia|피아|
 |**CHR_000061**|Illya (God's Curse)|일리아 (선악)|
 |**CHR_000062**|Priscilla|프리실라|
+|**CHR_000063**|Paladea|팔라디아|
+|**CHR_000064**|Gil'uial|길루이알|
+|**CHR_000066**|Iris  (Tainted)|아이리스 (흑갑)|
+|**CHR_000067**|Richesse|리세스|
 |**CHR_000068**|Fenny|페넥|
 |**CHR_000069**|Kaguya|카구야|
 |**CHR_000070**|Sabrina (Swimsuit)|사브리나 (수영복)|
 |**CHR_000071**|Moddey (Swimsuit)|모디 (수영복)|
 |**CHR_000072**|Cordie (Yukata)|콜디 (유카타)|
 |**CHR_000073**|Amour (Holy Night)|아모르 (성야)|
-|**CHR-000074**|Tropon (Holy Night)|트로폰 (성야)
+|**CHR-000074**|Tropon (Holy Night)|트로폰 (성야)|
+|**CHR_000075**|Morgana|모르가나|
+|**CHR_000076**|Yuni|유니|
 |**CHR_000077**|Minasumari|미나슈마리|
 |**CHR_000078**|Asahi|아사히|
 |**CHR_000082**|Alexandra|알렉산드라|
+|**CHR_000084**|Liselotte|리즈|
+|**CHR_000085**|Matilda|마틸다|
 |**CHR_000088**|Rosalie (Apostle)|로잘리|
 
 ## Credit
